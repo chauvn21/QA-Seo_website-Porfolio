@@ -125,8 +125,8 @@ CamelBeer Website
 | Distribution | ✅ Hoàn thành |
 | Product | ✅ Hoàn thành |
 | News & Events | ✅ Hoàn thành |
-| Homepage | 🚧 Đang thực hiện |
-| Test Plan | 🚧 Đang thực hiện
+| Homepage | ✅ Hoàn thành   |
+| Test Plan | ✅ Hoàn thành 
 
 # Kiến thức và kỹ năng áp dụng
 
