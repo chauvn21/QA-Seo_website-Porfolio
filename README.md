@@ -106,9 +106,9 @@ CamelBeer Website
 │ ├── Distribution Page
 │ ├── Product Page
 │ ├── News & Events Page
-│ └── Homepage (Đang thực hiện)
+│ └── Homepage 
 
-├── Test Plan (Đang thực hiện)
+├── Test Plan 
 
 └── README.md
 
